@@ -17,9 +17,9 @@
 
 ---
 
-## 2. Phân tích và nhận xét
+## 2. Phan tich va nhan xet
 
-### Nguyên nhân Agent đưa ra kết quả sai với Garbage Data
+### Tai sao Agent dua ra ket qua sai voi Garbage Data
 
 Kết quả sai lệch xuất phát từ việc Agent phụ thuộc hoàn toàn vào dữ liệu đầu vào mà không có cơ chế đánh giá hay lọc bỏ các bản ghi bất thường. Trong tập `garbage_data.csv`, nhiều vấn đề về chất lượng dữ liệu xuất hiện đồng thời và làm giảm đáng kể độ tin cậy của kết quả.
 
